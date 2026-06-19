@@ -36,7 +36,7 @@ export default function App() {
             <div className="flex items-center gap-4">
               <div className="w-14 h-14 bg-white rounded-2xl flex items-center justify-center p-2 shadow-inner overflow-hidden">
                 <img 
-                  src="/assets/favicon.png" 
+                  src="/favicon.png" 
                   alt="Logo" 
                   className="w-full h-full object-contain" 
                   onError={(e) => {
