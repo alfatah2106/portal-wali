@@ -6,7 +6,7 @@ export const portalData: AppItem[] = [
     id: '1',
     nama: 'Monitoring Liburan',
     deskripsi: 'Pantau aktivitas dan lokasi santri selama masa liburan.',
-    link: 'https://monitoring-liburan-santri-357641340350.asia-southeast1.run.app/',
+    link: 'https://monitoniring-pondok-pesantren-alfatah.pages.dev/',
     IconComponent: Map,
     bgIcon: 'bg-emerald-100',
     warnaIcon: 'text-emerald-600',
