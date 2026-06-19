@@ -1,0 +1,6 @@
+{
+  "name": "Portal Walisantri",
+  "description": "Portal terpusat untuk layanan aplikasi sekolah dan pesantren.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
